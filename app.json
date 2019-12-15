@@ -1,0 +1,12 @@
+{
+    "name": "hello-heroku-2",
+    "scripts": {},
+    "env": {},
+    "formation": {},
+    "addons": [],
+    "buildpacks": [
+      {
+        "url": "heroku/nodejs"
+      }
+    ]
+  }
